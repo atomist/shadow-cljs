@@ -23,7 +23,7 @@ replacing `M.N.P` with the [latest release][release] of this image.
 
 ## Support
 
-General support questions should be discussed in the `#support` channel in our community Slack workspace at [atomist-community.slack.com][slack].
+General support questions should be discussed in the `#help` channel in our community Slack workspace at [atomist-community.slack.com][slack].
 
 If you find a problem, please create an [issue][].
 
